@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1541874156 source:c:\users\gizmo\desktop\loot maker\loot maker\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<stdlib.h>
+	<time.h>
+
